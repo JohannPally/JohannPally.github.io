@@ -316,7 +316,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 112px;
+  max-height: 250px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -761,11 +761,17 @@ main {
 
 .clients-list {
   display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 15px;
+  margin: 0 -15px;
+  padding: 40px;
+  padding-bottom: 40px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
   scroll-snap-type: inline mandatory;
-
+  scroll-padding-inline: 25px;
 }
 
 .clients-item {
