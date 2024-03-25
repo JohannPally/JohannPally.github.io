@@ -7,8 +7,9 @@ const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
 // typewriter functions
 const carouselText = [
+  {text: "Johann Pally", color: "white"},
   {text: "Developer", color: "#B0E0E6"},
-  {text: "Photographer", color: "#FFF0F5"},
+  {text: "Photographer", color: "#8FBC8F"},
   {text: "Dog Papa", color: "#FFD700"}
 ]
 

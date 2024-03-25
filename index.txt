@@ -1,87 +1,63 @@
-vCard - Personal Portfolio
+Johann Pally - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Johann pally
+Johann Pally
+Developer/Photographer/Dog Papa
 
 Show Contacts
 
 Email
-richard@example.com
+johann.pally000@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (832) 916-8606
 
 Birthday
-June 23, 1982
+March 29, 2000
 
 Location
-Sacramento, California, USA
+Austin, Texas, USA
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
-Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+I'm a software engineer fascinated by what makes people 'go'. I thrive in interdisciplinatry settings, 
+and especially enjoy speaking with folks to find ways code can make their lives easier. My previous work 
+includes full stack development, data analysis, computer simulation, lab automation, and computer education. 
+My life's mission is to utilize technology to uplift voices, engender change, and strive for equity.
 
 ## service
 
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+System Design
+Uncover pain points in user workflows and propose relevant technology solutions.
 
 alt = Web development icon
 Web development
-High-quality development of sites at the professional level.
+Design and deploy easy to use interfaces on live web application systems.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Social media
+Share my personal hobbies and lessons learned with a wider audience..
 
 alt = camera icon
 Photography
-I make high-quality photos of any category at a professional level.
+Preserve the ephemeral now with a lens, photosensitive materials, and my surroundings.
 
+## skills
 
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
+Skills
 
 alt = client logo
 
@@ -93,148 +69,70 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+University Of Illinois Urbana-Champaign
+2022 — 2023
+Professional Master's of Computer Science
+4.0/4.0 (Highest Honors)
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Rice Universtiy
+2018 — 2022
+B.S. Computer Science
+B.A. Cognitive Science
+3.83/4.0 (President's Honor Roll, Distinction in Research and Creative Work)
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
 
 Experience
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Surgery Operations Engineer, Neuralink
+2023 — 2024
+Surfaced and resolved software, hardware, and organizational chokepoints in the BCI implantation surgery process. Engaged in stakeholder research to promote data accessibility across Neuralink while complying with FDA, EPA, and HIPAA regulations. Defined Agile development timelines to ensure lean, but feasible software deployments. Developed full stack solutions for an internal information management system using PostgreSQL, Ruby on Rails, and React.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Software Engineering Intern (AI), SwRI
+2023
+Built a data analysis pipeline to process data from a multi-modal experiment profiling cognitive load. Parsed, spliced, and analyzed EEG, Eye Tracking, GSR/EKG, and Speech data. Trained a Region Proposal Network to count red blood cells in hyperspectral cubes of unstained blood samples. Devised an autonomous discerner to differentiate saccade and fixation eye movements to train a fatigue detection model.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Graduate Teaching Assistant, UIUC
+2023
+Collaborated with Prof. Mark Hasegawa-Johnson to plan semester coursework for a 500+ student section of CS 440/Introduction to Artificial Intelligence. Proctored exams, held weekly office hours, and moderated student discussion on Discord and Campuswire. Learned pedagogical best practices in a semester long Grainger College of Engineering, Engineering Leadership seminar.
 
-My skills
+Student Team Lead, NSF I-Corps
+2022
+Designed an edge-to-cloud mobile Pose Estimation application to provide real-time, corrective instructions for weightlifting form. Programmed a barbell motion profile using data from a smartphone camera and bar mounted IMU sensor. Conducted market research interviews with gym owners, athletes, and investors. Presented findings in a course capstone showcase for the Department of Computer of Science.
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
+Frontend Developer, Rice 360
+2021 - 2022
+Created a computerized maintenance management system, robust to unreliable internet access, for hospitals in Malawi and Tanzania. Promoted software to infield clinicians and presented findings at the Rice University OEDK Engineering Showcase.
 
 
 # portfolio
 
 Portfolio
 
-All
-Web design
-Applications
-Web development
+Software
+Photography
 
 Select category
-All
-Web design
-Applications
-Web development
+Software
+Photography
 
-alt = finance
-Finance
-Web development
+alt = EVA
+EVA
+Weightlifting Coach
 
-alt = orizon
-Orizon
-Web development
+alt = NOVA
+NOVA
+Data Driven Degree Planning
 
-alt = fundo
-Fundo
-Web design
+alt = Sophia
+Sophia
+Computerized Maintenance Management System
 
-alt = brawlhalla
-Brawlhalla
-Applications
+alt = Travel
 
-alt = dsm.
-DSM.
-Web design
+alt = Street
 
-alt = metaspark
-MetaSpark
-Web design
+alt = Performing Arts
 
-alt = summary
-Summary
-Web development
+alt = Doggos
 
-alt = task manager
-Task Manager
-Applications
-
-alt = arrival
-Arrival
-Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
-
-# contact
-
-Contact
-
-Contact Form
-
-Full name
-Email address
-Your Message
-
-Send Message
+alt = Buddies

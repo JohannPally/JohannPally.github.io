@@ -316,7 +316,7 @@ main {
 
 .sidebar {
   margin-bottom: 15px;
-  max-height: 250px;
+  max-height: 112px;
   overflow: hidden;
   transition: var(--transition-2);
 }
@@ -445,14 +445,6 @@ main {
 
 .social-item .social-link:hover { color: var(--light-gray); }
 
-.rounded-image {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 30%;
-}
-
 .typing-container {
   color: var(--white-2);
   display: flex;
@@ -468,13 +460,14 @@ main {
 }
 
 #feature-text {
+  font-size: large;
   margin-left: 4px;
 }
 
 .input-cursor {
   display: inline-block;
   width: 2px;
-  height: 20px;
+  height: 30px;
   background-color: white;
   margin-left: 8px;
   animation: blink .6s linear infinite alternate;
@@ -765,8 +758,8 @@ main {
   align-items: flex-start;
   gap: 15px;
   margin: 0 -15px;
-  padding: 40px;
-  padding-bottom: 40px;
+  padding: 25px;
+  padding-bottom: 25px;
   overflow-x: auto;
   scroll-behavior: smooth;
   overscroll-behavior-inline: contain;
@@ -780,7 +773,7 @@ main {
 }
 
 .clients-item img {
-  height: 50px;
+  width: 100%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
